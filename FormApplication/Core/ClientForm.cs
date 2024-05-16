@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace form.Core
+namespace Form.Core
 {
     public class ClientForm
     {

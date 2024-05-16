@@ -1,8 +1,8 @@
-﻿using form.Core;
+﻿using Form.Core;
 using Microsoft.Azure.Cosmos;
 using Microsoft.Azure.Cosmos.Linq;
 
-namespace form.Data
+namespace Form.Data
 {
     public class ClientFormRepository: IClientFormRepository
     {

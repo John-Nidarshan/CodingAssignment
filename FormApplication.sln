@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormApplication", "FormApplication\FormApplication.csproj", "{804C1A47-CC88-4E94-B4A2-FC5ABAAB8FF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form", "FormApplication\Form.csproj", "{804C1A47-CC88-4E94-B4A2-FC5ABAAB8FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormApplication.Tests", "FormApplication.Tests\FormApplication.Tests.csproj", "{BC22DA43-A1DF-4CE6-BE02-FC925FB6B9C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{804C1A47-CC88-4E94-B4A2-FC5ABAAB8FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{804C1A47-CC88-4E94-B4A2-FC5ABAAB8FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{804C1A47-CC88-4E94-B4A2-FC5ABAAB8FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC22DA43-A1DF-4CE6-BE02-FC925FB6B9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC22DA43-A1DF-4CE6-BE02-FC925FB6B9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC22DA43-A1DF-4CE6-BE02-FC925FB6B9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC22DA43-A1DF-4CE6-BE02-FC925FB6B9C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

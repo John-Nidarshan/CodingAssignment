@@ -1,7 +1,7 @@
-﻿using form.Core;
+﻿using Form.Core;
 using Newtonsoft.Json;
 
-namespace form.Dto
+namespace Form.Dto
 {
     public class ClientFormDto
     {

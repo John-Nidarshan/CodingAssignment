@@ -1,6 +1,6 @@
-﻿using form.Core;
+﻿using Form.Core;
 
-namespace form.Data
+namespace Form.Data
 {
     public interface IClientFormRepository
     {

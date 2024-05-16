@@ -1,10 +1,10 @@
-﻿using form.Core;
+﻿using Form.Core;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Cosmos;
 using Microsoft.Azure.Cosmos.Linq;
 using System.Threading.Tasks;
 
-namespace form.Data
+namespace Form.Data
 {
     public class EmoloyeeFormRepository : IEmoloyeeFormRepository
     {

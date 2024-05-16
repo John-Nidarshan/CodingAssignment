@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
-using form.Core;
-using form.Data;
-using form.Dto;
+using Form.Core;
+using Form.Data;
+using Form.Dto;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

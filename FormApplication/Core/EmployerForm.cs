@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using NSwag.Annotations;
 
-namespace form.Core
+namespace Form.Core
 {
     public class CustomQuestion
     {

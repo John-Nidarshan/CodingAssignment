@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using form.Core;
-using form.Dto;
+using Form.Core;
+using Form.Dto;
 
-namespace form
+namespace Form
 {
     public class AutomapperProfile:Profile
     {

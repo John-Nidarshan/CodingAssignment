@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace form.Dto
+namespace Form.Dto
 {
     public class CustomQuestionDtos
     {

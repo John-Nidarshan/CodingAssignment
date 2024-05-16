@@ -1,10 +1,10 @@
-﻿using form.Core;
-using form.Data;
+﻿using Form.Core;
+using Form.Data;
 using NSwag.Annotations;
 using Microsoft.AspNetCore.JsonPatch.Operations;
 using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
-using form.Dto;
+using Form.Dto;
 
 namespace form.Controllers
 {
