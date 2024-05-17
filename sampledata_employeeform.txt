@@ -1,0 +1,68 @@
+{
+    "id": "ed36462d-9354-4661-b1d6-29ef279ef14d",
+    "formid": "ed36462d-9354-4661-b1d6-29ef279ef14d",
+    "programTitle": "spiderman1",
+    "programDescription": "string",
+    "personalInformation": {
+        "firstName": "string",
+        "lastName": "string",
+        "email": "string",
+        "phone": "string",
+        "nationality": "string",
+        "currentResidence": "string",
+        "idNumber": "string",
+        "dateOfBirth": "string",
+        "gender": "string",
+        "additionalMultipleChoiceQuestion": [
+            {
+                "questionId": "string",
+                "type": "string",
+                "question": "string",
+                "other": true,
+                "choices": [
+                    "string"
+                ],
+                "maxChoices": 0
+            },
+            {
+                "questionId": "string",
+                "type": "string",
+                "question": "string",
+                "other": true,
+                "choices": [
+                    "string"
+                ],
+                "maxChoices": 0
+            }
+        ]
+    },
+    "customQuestions": [
+        {
+            "questionId": "string",
+            "type": "string",
+            "question": "string",
+            "other": true,
+            "choices": [
+                "string"
+            ],
+            "maxChoices": 0
+        }
+    ],
+    "additionalQuestions": [
+        {
+            "questionId": "string",
+            "type": "string",
+            "question": "string",
+            "other": true,
+            "choices": [
+                "string"
+            ],
+            "maxChoices": 0
+        }
+    ],
+    "_rid": "NMd7ALZoS9YGAAAAAAAAAA==",
+    "_self": "dbs/NMd7AA==/colls/NMd7ALZoS9Y=/docs/NMd7ALZoS9YGAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-a6ea-9a1787a001da\"",
+    "_attachments": "attachments/",
+    "_ts": 1715792949
+}

@@ -1,0 +1,72 @@
+{
+    "id": "24439bfb-743a-4abd-9393-fead02f1572f",
+    "formid": "24439bfb-743a-4abd-9393-fead02f1572f",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "phone": "string",
+    "majorquestions": [
+        {
+            "questionId": "8d4ae0e3-06b6-4efd-9c2b-59e4b7471361",
+            "type": "dropdown",
+            "question": "nationality?",
+            "answer": "Sri Lankan",
+            "other": false,
+            "choices": [
+                "Sri Lankan",
+                "Indian"
+            ],
+            "maxChoices": 0
+        },
+        {
+            "questionId": "39f62d71-0dd1-4993-b9df-895b1bc29cf7",
+            "type": "dropdown",
+            "question": "currentresidence",
+            "answer": "",
+            "other": false,
+            "choices": [
+                "Kandy",
+                "Colombo"
+            ],
+            "maxChoices": 0
+        },
+        {
+            "questionId": "fa7e3576-afc9-4dac-afb5-4ca7bf1a17c0",
+            "type": "date",
+            "question": "dateofbirth",
+            "answer": "1990-01-01",
+            "other": false,
+            "choices": [],
+            "maxChoices": 0
+        },
+        {
+            "questionId": "ff74a8c2-74fe-4e18-bc68-cc952ec8ec8c",
+            "type": "dropdown",
+            "question": "gender?",
+            "answer": "Male",
+            "other": false,
+            "choices": [
+                "Male",
+                "Female"
+            ],
+            "maxChoices": 0
+        }
+    ],
+    "AdditionalQuestion": [
+        {
+            "questionId": "paragraph",
+            "type": "string",
+            "question": "Tell us about yourself",
+            "answer": "string",
+            "other": false,
+            "choices": [
+                "string"
+            ],
+            "maxChoices": 0
+        }
+    ],
+    "_rid": "NMd7AORLs78RAAAAAAAAAA==",
+    "_self": "dbs/NMd7AA==/colls/NMd7AORLs78=/docs/NMd7AORLs78RAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-a758-53c4e31601da\"",
+    "_attachments": "attachments/",
+    "_ts": 1715840076
